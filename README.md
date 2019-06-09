@@ -1,29 +1,12 @@
-# quotes
+# beautiful-quotes
 
-## Project setup
-```
-npm install
-```
+A quote generator app with beautiful font.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+```https://beautifulquotes.surge.sh/```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshot
+![alt text](https://raw.githubusercontent.com/arifszn/beautiful-quotes/master/public/screenshot.png)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Courtesy
+Maximilian Schwarzmüller(https://academind.com/)
