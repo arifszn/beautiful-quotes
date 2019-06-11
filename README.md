@@ -10,4 +10,6 @@ Made with Vue js.
 ![alt text](https://raw.githubusercontent.com/arifszn/beautiful-quotes/master/public/screenshot.png)
 
 ## Courtesy
-Maximilian Schwarzmüller (https://academind.com/)
+Maximilian Schwarzmüller 
+<br>
+https://academind.com/
