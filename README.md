@@ -1,7 +1,8 @@
 # beautiful-quotes
 
-A quote generator app with beautiful font. 
-Made with Vue js.
+A quote generator app with beautiful font.
+<br>
+Made with Vue.js.
 
 ## Demo
 [https://beautifulquotes.surge.sh/](https://beautifulquotes.surge.sh/)
